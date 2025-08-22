@@ -1,0 +1,54 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/1x/icons8_reception_165px.png</file>
+    <file>icons/1x/icons8_reception_180px.png</file>
+    <file>icons/1x/icons8_staff_180px.png</file>
+    <file>icons/icons8_reception_380px.png</file>
+    <file>icons/icons8_staff_380px.png</file>
+    <file>icons/1x/androidAsset 49.png</file>
+    <file>icons/1x/arrow.png</file>
+    <file>icons/1x/bookAsset 57.png</file>
+    <file>icons/1x/bugAsset 47.png</file>
+    <file>icons/1x/bulletAsset 54.png</file>
+    <file>icons/1x/cleanAsset 59.png</file>
+    <file>icons/1x/closeAsset 43.png</file>
+    <file>icons/1x/cloudAsset 48.png</file>
+    <file>icons/1x/dragAsset 52.png</file>
+    <file>icons/1x/errorAsset 55.png</file>
+    <file>icons/1x/gameAsset 61.png</file>
+    <file>icons/1x/hideAsset 53.png</file>
+    <file>icons/1x/homeAsset 46.png</file>
+    <file>icons/1x/icons8_about_100px.png</file>
+    <file>icons/1x/icons8_add_180px.png</file>
+    <file>icons/1x/icons8_add_user_male_200px_1.png</file>
+    <file>icons/1x/icons8_car_200px_3.png</file>
+    <file>icons/1x/icons8_company_380px.png</file>
+    <file>icons/1x/icons8_face_id_20px.png</file>
+    <file>icons/1x/icons8_face_id_50px.png</file>
+    <file>icons/1x/icons8_face_id_200px.png</file>
+    <file>icons/1x/icons8_janitor_200px.png</file>
+    <file>icons/1x/icons8_landlord_180px.png</file>
+    <file>icons/1x/icons8_people_200px.png</file>
+    <file>icons/1x/icons8_skyscrapers_400px.png</file>
+    <file>icons/1x/icons8_strike_200px.png</file>
+    <file>icons/1x/icons8_view_details_200px.png</file>
+    <file>icons/1x/icons8_whatsapp_200px.png</file>
+    <file>icons/1x/icons8_wrench_180px.png</file>
+    <file>icons/1x/logo.png</file>
+    <file>icons/1x/max.png</file>
+    <file>icons/1x/peopleAsset 62.png</file>
+    <file>icons/1x/peple.png</file>
+    <file>icons/1x/restore.png</file>
+    <file>icons/1x/settAsset 50.png</file>
+    <file>icons/1x/smile2Asset 1.png</file>
+    <file>icons/1x/smileAsset 1.png</file>
+    <file>icons/1x/windAsset 51.png</file>
+    <file>icons/1x/worldAsset 60.png</file>
+    <file>icons/car_rental_50px.png</file>
+    <file>icons/carpool_90px.png</file>
+    <file>icons/icons8_car_180px.png</file>
+    <file>icons/icons8_car_200px_2.png</file>
+    <file>icons/icons8_carpool_50px.png</file>
+    <file>icons/suv_50px.png</file>
+  </qresource>
+</RCC>

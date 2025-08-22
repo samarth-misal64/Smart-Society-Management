@@ -1,0 +1,1 @@
+aboutHome = """SMART SOCIETY MANAGEMENT"""
